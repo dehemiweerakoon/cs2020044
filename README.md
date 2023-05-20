@@ -1,2 +1,2 @@
 # sum of two number calculator
-## calculate the are aof a circle
+## calculate the are of a circle
