@@ -99,3 +99,9 @@ function power(num1, num2) {
 function remainder(num1, num2) {
     return num1 % num2;
 }
+
+function  printCapital(city,country) {
+
+    console.log(city+"  is the Capital of "+country);
+}
+printCapital("Sri Jayawardanapura","Sri Lanka");
